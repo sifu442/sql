@@ -1,9 +1,10 @@
-#Introduction
+# Introduction
+
 Dive into the data job market! Focusing on data analyst rotes, this project explores top—paying
 jobs, in—demand skills, and where high demand meets high salary in data analytics.
 SQL queries? Check them out here: [project_sql_folder](/project_sql/).
 
-#Background
+# Background
 Driven by a quest to navigate the data analyst job more effectively, this project was born desire to pinpoint top—paid and in—demand skills streamlining others work to find optimal job.
 Data hails from my [SQL Course](https://tukebarousse.com/sqt). It's packed with insights on job titles, salaries, locations, and essential
 skills.
@@ -16,7 +17,7 @@ skills.
 4. Which skills are associated with higher salaries?
 5. What are the most optimal skills to learn?
 
-#Tools I Used
+# Tools I Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
@@ -24,7 +25,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 — **Visual Studio Code:** My go-to for database management and executing SQL queries.
 — **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
-#The Analysis
+# The Analysis
 To identify the highest—paying rotes, I filtered data analyst positions by average yearly salary
 and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
@@ -55,7 +56,8 @@ indicating significant salary potential in the field.
 offering high salaries, showing a broad interest across different industries.
 — **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-#What I Learned
+# What I Learned
+
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 - **Complex Query Crafting:** Mastered the art of advanced SQL, merging tables tike a pro and
 wielding WITH clauses for ninja—levet temp table maneuvers.
