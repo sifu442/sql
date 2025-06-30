@@ -1,11 +1,11 @@
 # Introduction
 
-Dive into the data job market! Focusing on data analyst rotes, this project explores top—paying
-jobs, in—demand skills, and where high demand meets high salary in data analytics.
+Dive into the data job market! Focusing on data analyst rotes, this project explores top-paying
+jobs, in-demand skills, and where high demand meets high salary in data analytics.
 SQL queries? Check them out here: [project_sql_folder](/project_sql/).
 
 # Background
-Driven by a quest to navigate the data analyst job more effectively, this project was born desire to pinpoint top—paid and in—demand skills streamlining others work to find optimal job.
+Driven by a quest to navigate the data analyst job more effectively, this project was born desire to pinpoint top-paid and in-demand skills streamlining others work to find optimal job.
 Data hails from my [SQL Course](https://tukebarousse.com/sqt). It's packed with insights on job titles, salaries, locations, and essential
 skills.
 
@@ -21,12 +21,12 @@ skills.
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
 - **SQL:** The backbone of my analysis, allowing me to query the database and unearth critical insights.
-— **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
-— **Visual Studio Code:** My go-to for database management and executing SQL queries.
-— **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+- **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
+- **Visual Studio Code:** My go-to for database management and executing SQL queries.
+- **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
 # The Analysis
-To identify the highest—paying rotes, I filtered data analyst positions by average yearly salary
+To identify the highest-paying rotes, I filtered data analyst positions by average yearly salary
 and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
 ```sql
@@ -51,16 +51,16 @@ LIMIT
 ```
 Here's the breakdown of the top data analyst jobs in 2023:
 
-— **Wide Salary Range:** Top 10 paying data analyst roles span from $184,000 to $650,000,
+- **Wide Salary Range:** Top 10 paying data analyst roles span from $184,000 to $650,000,
 indicating significant salary potential in the field.
-— **Diverse Employers:** Companies tike SmartAsset, Meta, and AT&T are among those
+- **Diverse Employers:** Companies tike SmartAsset, Meta, and AT&T are among those
 offering high salaries, showing a broad interest across different industries.
-— **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
+- **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
 # What I Learned
 
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 - **Complex Query Crafting:** Mastered the art of advanced SQL, merging tables tike a pro and
-wielding WITH clauses for ninja—levet temp table maneuvers.
-- **Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data—summarizing sidekicks.
-- **Analytical Wizardry:** Leveled up my real—world puzzle—solving skills, turning questions into actionable, insightful SQL queries.
+wielding WITH clauses for ninja-levet temp table maneuvers.
+- **Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
+- **Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
