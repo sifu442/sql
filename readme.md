@@ -62,6 +62,5 @@ offering high salaries, showing a broad interest across different industries.
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 - **Complex Query Crafting:** Mastered the art of advanced SQL, merging tables tike a pro and
 wielding WITH clauses for ninja—levet temp table maneuvers.
-Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG
-( ) into my data—summarizing sidekicks. 
+- **Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data—summarizing sidekicks.
 - **Analytical Wizardry:** Leveled up my real—world puzzle—solving skills, turning questions into actionable, insightful SQL queries.
